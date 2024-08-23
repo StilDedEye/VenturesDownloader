@@ -30,4 +30,3 @@ This is the recommended way to update:
 
 ## Well-know problems
 
->  - Some copyrighted videos may not be downloaded by this software.
