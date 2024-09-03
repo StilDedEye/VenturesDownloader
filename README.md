@@ -28,5 +28,5 @@ This is the recommended way to update:
 3.  Replace the old files with the new ones.
 4.  Run **VenturesDownloader.exe** and let the program install the latest components.
 
-## Well-know problems
+## Well-known problems
 
